@@ -1,16 +1,23 @@
-# notes
+# Notes
 
-A new Flutter project.
+A Flutter project for note taking.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Beautiful minimal UI
+- Create & edit notes
+- Select note priority and color
+- Display notes in list or grid view
+- Search for notes
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<table>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+  <tr> 
+    <td> <img width="250px" src="screenshots/home.png">  </td>
+    <td> <img width="250px" src="screenshots/add_note.png">  </td>
+    <td> <img width="250px" src="screenshots/search.png">  </td>
+  </tr>
+
+</table>
